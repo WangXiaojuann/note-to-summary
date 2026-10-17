@@ -1,0 +1,4 @@
+interface:
+  display_name: "Note to Summary"
+  short_description: "Write an English literature review from selected PDFs or Markdown notes."
+  default_prompt: "Use $note-to-summary to write or revise an English literature review from the PDF or Markdown files I provide."
